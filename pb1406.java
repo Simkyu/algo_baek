@@ -10,6 +10,7 @@ import java.io.InputStreamReader;
 
 import java.util.ListIterator;
 
+// 성공
 public class pb1406 { //
 	public static void main(String args[]) throws IOException {
 		
